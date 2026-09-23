@@ -35,22 +35,22 @@ const SITE = {
       products: [
         {
           name: "Biscoff Cheesecake - ₹215",
-          image: "images/Biscoff.svg",
+          image: "images/Biscoff1.svg",
           description: "Creamy cheesecake with a buttery Biscoff base."
         },
         {
           name: "Nutella Cheesecake - ₹215",
-          image: "images/Nutella.svg",
+          image: "images/Nutella1.svg",
           description: "Rich chocolate-hazelnut cheesecake for serious cravings."
         },
         {
           name: "Blueberry Cheesecake - ₹215",
-          image: "images/Blueberry.svg",
+          image: "images/Blueberry1.svg",
           description: "Velvety cheesecake finished with blueberry compote."
         },
 		{
           name: "Chocolate Cheesecake - ₹215",
-          image: "images/Chocolate.svg",
+          image: "images/Chocolate1.svg",
           description: "Velvety cheesecake finished with blueberry compote."
         }
       ]
